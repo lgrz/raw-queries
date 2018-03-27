@@ -2,4 +2,4 @@
 
 * case folding
 * puntucation removed
-* no stemming
+* no stemming (unless otherwise indicated in filename)
